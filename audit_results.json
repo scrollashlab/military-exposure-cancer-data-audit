@@ -1,0 +1,157 @@
+{
+ "run_at_local": "2026-10-08T07:40:14",
+ "gdc_status": "Data Release 46.0 - August 10, 2026",
+ "gdc_projects": 93,
+ "gdc_cases_total": 50571,
+ "cases_any_occupation_type": 324,
+ "cases_armed_forces_occupation": 11,
+ "cases_any_chemical_exposure_type": 60,
+ "cases_agent_orange": 2,
+ "exposure_type_enum": [
+  "Asbestos",
+  "Chemical",
+  "Coal Dust",
+  "Dust, NOS",
+  "Marijuana",
+  "Radiation",
+  "Radon",
+  "Respirable Crystalline Silica",
+  "Smoke",
+  "Smokeless Tobacco",
+  "Tobacco",
+  "Wood Dust",
+  "Unknown",
+  "Not Reported"
+ ],
+ "chemical_exposure_type_enum": [
+  "Agent Orange",
+  "Aluminum",
+  "Arsenic",
+  "Asbestos",
+  "Benzene",
+  "Cadmium",
+  "Chemical Exposure, NOS",
+  "Chromium",
+  "Coal Gas, Coal Tar, Coal Tar Pitch, and Derivatives",
+  "Coke Oven Emission",
+  "Copper",
+  "Diesel Exhaust",
+  "Disinfectant",
+  "Formaldehyde",
+  "Methylene Chloride",
+  "Occupational Soldering/Welding Smoke Exposure",
+  "Oil",
+  "Pesticide",
+  "Petroleum Hydrocarbon Compound",
+  "Resin Fumes",
+  "Sodium Borate",
+  "Solvent",
+  "Tetrachloroethylene",
+  "Toluene",
+  "Unknown",
+  "Not Reported"
+ ],
+ "exposure_entity_fields": [
+  "age_at_last_exposure",
+  "age_at_onset",
+  "alcohol_days_per_week",
+  "alcohol_drinks_per_day",
+  "alcohol_frequency",
+  "alcohol_history",
+  "alcohol_intensity",
+  "alcohol_type",
+  "asbestos_exposure_type",
+  "chemical_exposure_type",
+  "cigarettes_per_day",
+  "environmental_tobacco_smoke_exposure",
+  "exposure_duration",
+  "exposure_duration_hrs_per_day",
+  "exposure_duration_years",
+  "exposure_source",
+  "exposure_type",
+  "occupation_duration_years",
+  "occupation_type",
+  "pack_years_smoked",
+  "parent_with_radiation_exposure",
+  "secondhand_smoke_as_child",
+  "smoking_frequency",
+  "time_between_waking_and_first_smoke",
+  "tobacco_smoking_onset_year",
+  "tobacco_smoking_quit_year",
+  "tobacco_smoking_status",
+  "type_of_smoke_exposure",
+  "type_of_tobacco_used",
+  "use_per_day"
+ ],
+ "apollo_projects": {
+  "APOLLO-LUAD": {
+   "cases": 87,
+   "with_occupation_type": 0,
+   "with_chemical_exposure_type": 0,
+   "with_exposure_type": 0
+  },
+  "APOLLO-OV": {
+   "cases": 70,
+   "with_occupation_type": 0,
+   "with_chemical_exposure_type": 0,
+   "with_exposure_type": 0
+  },
+  "APOLLO-BRCA-1": {
+   "cases": 68,
+   "with_occupation_type": 0,
+   "with_chemical_exposure_type": 0,
+   "with_exposure_type": 0
+  },
+  "VAREPOP-APOLLO": {
+   "cases": 7,
+   "with_occupation_type": 0,
+   "with_chemical_exposure_type": 0,
+   "with_exposure_type": 0
+  }
+ },
+ "ins_dataset_records_searched": 13875,
+ "ins_hits": {
+  "agent orange": {
+   "n": 0,
+   "titles": []
+  },
+  "burn pit": {
+   "n": 0,
+   "titles": []
+  },
+  "camp lejeune": {
+   "n": 0,
+   "titles": []
+  },
+  "airborne hazard": {
+   "n": 0,
+   "titles": []
+  },
+  "military": {
+   "n": 8,
+   "titles": [
+    "Genome-Wide Association Study of Sporadic and Familial Testicular Germ Cell Tumors",
+    "Millennium Cohort Study Panel 1",
+    "Millennium Cohort Study Panel 2",
+    "Millennium Cohort Study Panel 3",
+    "Millennium Cohort Study Panel 4",
+    "Millennium Cohort Study Panel 5",
+    "Smoking modulates different secretory subpopulations expressing SARS-CoV-2 entry genes in the nasal and bronchial airways (DECAMP bronchial brushings)",
+    "Smoking modulates different secretory subpopulations expressing SARS-CoV-2 entry genes in the nasal and bronchial airways (DECAMP nasal brushings)"
+   ]
+  },
+  "veteran": {
+   "n": 8,
+   "titles": [
+    "Genome-Wide Association Study of HCC in Non-Asian USA Population",
+    "Identification of relationships between Molecular and Imaging Phenotypes in Non-small cell lung cancer using radiogenomics Map",
+    "Millennium Cohort Study Panel 1",
+    "Millennium Cohort Study Panel 2",
+    "Millennium Cohort Study Panel 3",
+    "Millennium Cohort Study Panel 4",
+    "Millennium Cohort Study Panel 5",
+    "VA APOLLO Project - Research for Precision Oncology (RePOP)"
+   ]
+  }
+ }
+}
