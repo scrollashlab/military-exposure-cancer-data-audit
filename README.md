@@ -1,8 +1,8 @@
 # Military Exposure Cancer Data Audit
 
-Supporting code and results for "The Military Exposure Cancer Data Bridge," an entry by Ben Herman to the NCI Office of Data Sharing Impact Prize (Track 1, Ideas).
+This repository holds the code and results behind "The Military Exposure Cancer Data Bridge," an entry by Ben Herman to the NCI Office of Data Sharing Impact Prize (Track 1, Ideas).
 
-The audit measures how often military service and exposure information appears in public NCI metadata. It uses only open-access, public metadata. No controlled-access data are used.
+The audit measures how often military service and exposure information appears in public NCI metadata. It uses only open-access metadata and no controlled-access data.
 
 ## What it checks
 
@@ -25,7 +25,7 @@ Full output: `audit_results.json`.
 
 ## How to reproduce
 
-Requires Python 3 and no extra packages.
+You need Python 3. No other packages are required.
 
 ```
 # GDC part only
