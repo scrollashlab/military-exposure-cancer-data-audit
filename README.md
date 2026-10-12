@@ -39,6 +39,11 @@ python3 audit_gdc_ins.py ins > audit_results.json
 
 GDC counts change as new data releases are published, so later runs may differ slightly.
 
+## Related sources
+
+- Haley RW, Kramer G, Xiao J, Dever JA, Teiber JF. Evaluation of a gene-environment interaction of PON1 and low-level nerve agent exposure with Gulf War illness: a prevalence case-control study drawn from the U.S. Military Health Survey's national population sample. *Environmental Health Perspectives*. 2022;130(5):057001. https://doi.org/10.1289/EHP9009
+  - Listed as an example of a specific military exposure linked to a specific illness. It is not a cancer finding.
+
 ## License
 
 CC0 1.0 Universal (public domain dedication).
