@@ -1,6 +1,6 @@
 # Military Exposure Cancer Data Audit
 
-This repository holds the code and results behind "The Military Exposure Cancer Data Bridge," an entry by Ben Herman to the NCI Office of Data Sharing Impact Prize (Track 1, Ideas).
+This repository holds the code and results behind "The Military Exposure Cancer Data Bridge," an entry by Scroll Ash Lab to the NCI Office of Data Sharing Impact Prize (Track 1, Ideas).
 
 The audit measures how often military service and exposure information appears in public NCI metadata. It uses only open-access metadata and no controlled-access data.
 
